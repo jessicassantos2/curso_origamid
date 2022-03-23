@@ -1,0 +1,27 @@
+.header{
+   color: white;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    max-height: 80px;
+
+    
+}
+.logo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+     margin-left: 40px;
+    align-items: center;
+}
+
+.menu-linha{
+    padding-top: 20px;
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    font-weight: 700;
+    color: #FFFFFF;
+   
+}
